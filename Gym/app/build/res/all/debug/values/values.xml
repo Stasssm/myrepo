@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="muscleList">
+        <item>shoulders</item>
+        <item>biceps</item>
+        <item>forearms</item>
+        <item>chest</item>
+        <item>abs</item>
+        <item>quads</item>
+        <item>neck</item>
+        <item>traps</item>
+        <item>triceps</item>
+        <item>lats</item>
+        <item>middleback</item>
+        <item>lowerback</item>
+        <item>glutes</item>
+        <item>hamstrings</item>
+        <item>calves</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_left_margin">3dp</dimen>
+    <dimen name="text_button_size">18sp</dimen>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/ids.xml -->
+    <eat-comment />
+
+    <item name="my_youtube_framelayout" type="id"/>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/integers.xml -->
+    <eat-comment />
+
+    <integer name="column_num">1</integer>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="abs">Пресс</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Gym</string>
+    <string name="biceps">Бицепс</string>
+    <string name="calves">Икры</string>
+    <string name="chest">Грудь</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <string name="forearms">Предплечья</string>
+    <string name="glutes">Ягодицы</string>
+    <string name="hamstrings">Бедра</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lats">Широчайшие</string>
+    <string name="lowerback">Нижняя часть спины</string>
+    <string name="middleback">Средняя часть спины</string>
+    <string name="muscinf">О мышцах!</string>
+    <string name="neck">Шея</string>
+    <string name="play">play</string>
+    <string name="quads">Квадрицепсы</string>
+    <string name="shoulders">Плечи</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="train_video">Посмотреть тренировки</string>
+    <string name="traps">Трапеции</string>
+    <string name="triceps">Трицепс</string>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/themes.xml -->
+    <eat-comment />
+
+    <style name="Theme.TranslucentActionBar" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/Widget.ActionBar</item>
+    </style>
+
+    <style name="Theme.TranslucentActionBar.ActionBar" />
+
+    <style name="Theme.TranslucentActionBar.ActionBar.Overlay">
+        <item name="android:actionBarStyle">@style/Widget.ActionBar.Transparent</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <!-- From: file:/C:/Users/Stas/AndroidStudioProjects/Gym/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_background</item>
+    </style>
+
+    <style name="Widget.ActionBar.Transparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="muscle_button_style">
+        <item name="android:background">@null</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_button_size</item>
+    </style>
+
+    <style name="muscle_button_style_right">
+        <item name="android:background">@null</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_button_size</item>
+    </style>
+
+</resources>

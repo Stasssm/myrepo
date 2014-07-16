@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res" >
+            <file
+                name="anim_scale"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\anim\anim_scale.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="ab_background"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable\ab_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="back_map"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable\back_map.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="mybg"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable\mybg.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="arrow"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\arrow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="back_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\back_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="barbell_view"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\barbell_view.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bground"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\bground.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bic_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\bic_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="body_model"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\body_model.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_helper"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\button_helper.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="button_youtube"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\button_youtube.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="calve_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\calve_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chest_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\chest_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eye"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\eye.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="food_main"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\food_main.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gym"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\gym.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gym3"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\gym3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gym_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\gym_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="legs_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\legs_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="lent_main"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\lent_main.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="main_backgraund"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\main_backgraund.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="muscle_button"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\muscle_button.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="musc_button"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\musc_button.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="play"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\play.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="shoulder_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\shoulder_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="stop"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\stop.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="stopblack"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\stopblack.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tric_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\tric_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="vol_xhdpi"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\vol_xhdpi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="weight_main"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-hdpi\weight_main.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="back_map"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-mdpi\back_map.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="eye"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-mdpi\eye.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="gym_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-mdpi\gym_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="mybg"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-mdpi\mybg.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="back_map"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xhdpi\back_map.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="eye"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xhdpi\eye.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="gym_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xhdpi\gym_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="mybg"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xhdpi\mybg.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="eye"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xxhdpi\eye.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="gym_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xxhdpi\gym_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_you_tube_api"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\activity_you_tube_api.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="body_model"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\body_model.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="body_part_fragment"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\body_part_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="exercises_activity_fragment"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\exercises_activity_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="exersice_fragment"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\exersice_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="grid_body_layout"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\grid_body_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_bodyp"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\list_bodyp.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_exercises"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\list_exercises.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="eye"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\menu\eye.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="next"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\menu\next.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="button_left_margin" >3dp
+                </dimen>
+                <dimen name="text_button_size" >18sp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values\ids.xml"
+                qualifiers="" >
+                <item
+                    name="my_youtube_framelayout"
+                    type="id"/>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values\integers.xml"
+                qualifiers="" >
+                <integer name="column_num" >
+1
+                </integer>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="middleback" >Средняя часть спины
+                </string>
+                <string name="hamstrings" >Бедра
+                </string>
+                <string name="lats" >Широчайшие
+                </string>
+                <string name="biceps" >Бицепс
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="neck" >Шея
+                </string>
+                <string name="traps" >Трапеции
+                </string>
+                <string name="title_activity_calendar" >CalendarActivity
+                </string>
+                <string name="error_thumbnail_view" >There was an error initializing the YouTubeThumbnailView (%1$s)
+                </string>
+                <string name="error_player" >There was an error initializing the YouTubePlayer (%1$s)
+                </string>
+                <string name="train_video" >Посмотреть тренировки
+                </string>
+                <string name="play" >play
+                </string>
+                <string name="quads" >Квадрицепсы
+                </string>
+                <string name="abs" >Пресс
+                </string>
+                <string name="forearms" >Предплечья
+                </string>
+                <string name="muscinf" >О мышцах!
+                </string>
+                <string name="lowerback" >Нижняя часть спины
+                </string>
+                <string name="glutes" >Ягодицы
+                </string>
+                <string name="app_name" >Gym
+                </string>
+                <string name="chest" >Грудь
+                </string>
+                <string name="triceps" >Трицепс
+                </string>
+
+                <string-array name="muscleList" >
+                    <item>
+shoulders
+                    </item>
+                    <item>
+biceps
+                    </item>
+                    <item>
+forearms
+                    </item>
+                    <item>
+chest
+                    </item>
+                    <item>
+abs
+                    </item>
+                    <item>
+quads
+                    </item>
+                    <item>
+neck
+                    </item>
+                    <item>
+traps
+                    </item>
+                    <item>
+triceps
+                    </item>
+                    <item>
+lats
+                    </item>
+                    <item>
+middleback
+                    </item>
+                    <item>
+lowerback
+                    </item>
+                    <item>
+glutes
+                    </item>
+                    <item>
+hamstrings
+                    </item>
+                    <item>
+calves
+                    </item>
+                </string-array>
+
+                <string name="shoulders" >Плечи
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="calves" >Икры
+                </string>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style name="Widget.ActionBar.Transparent" >
+                    <item name="android:background">
+@android:color/transparent
+                    </item>
+                </style>
+
+                <style name="muscle_button_style_right" >
+                    <item name="android:background">
+@null
+                    </item>
+                    <item name="android:gravity">
+right|center_vertical
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:textSize">
+@dimen/text_button_size
+                    </item>
+                </style>
+
+                <style
+                    name="Widget.ActionBar"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@drawable/ab_background
+                    </item>
+                </style>
+
+                <style name="muscle_button_style" >
+                    <item name="android:background">
+@null
+                    </item>
+                    <item name="android:gravity">
+left|center_vertical
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:textSize">
+@dimen/text_button_size
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values\themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="Theme.TranslucentActionBar"
+                    parent="@android:style/Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:actionBarStyle">
+@style/Widget.ActionBar
+                    </item>
+                </style>
+
+                <style name="Theme.TranslucentActionBar.ActionBar" />
+
+                <style name="Theme.TranslucentActionBar.ActionBar.Overlay" >
+                    <item name="android:actionBarStyle">
+@style/Widget.ActionBar.Transparent
+                    </item>
+                    <item name="android:windowActionBarOverlay">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-large\dimens.xml"
+                qualifiers="large" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="button_left_margin" >3dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="text_button_size" >25sp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-large\integers.xml"
+                qualifiers="large" >
+                <integer name="column_num" >
+2
+                </integer>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-small\dimens.xml"
+                qualifiers="small" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="button_left_margin" >7dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="text_button_size" >16sp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-xlarge\dimens.xml"
+                qualifiers="xlarge" >
+                <dimen name="text_button_size" >40sp
+                </dimen>
+                <dimen name="button_left_margin" >7dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-xlarge\integers.xml"
+                qualifiers="xlarge" >
+                <integer name="column_num" >
+3
+                </integer>
+            </file>
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-xlarge\styles.xml"
+                qualifiers="xlarge" >
+
+                <style
+                    name="Widget.ActionBar"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@drawable/ab_background
+                    </item>
+                </style>
+
+                <style name="muscle_button_style" >
+                    <item name="android:background">
+@null
+                    </item>
+                    <item name="android:gravity">
+left|center_vertical
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:textSize">
+@dimen/text_button_size
+                    </item>
+                </style>
+
+                <style name="Widget.ActionBar.Transparent" >
+                    <item name="android:background">
+@android:color/transparent
+                    </item>
+                </style>
+
+                <style name="muscle_button_style_right" >
+                    <item name="android:background">
+@null
+                    </item>
+                    <item name="android:gravity">
+right|center_vertical
+                    </item>
+                    <item name="android:textColor">
+#ffffff
+                    </item>
+                    <item name="android:textSize">
+@dimen/text_button_size
+                    </item>
+                </style>
+            </file>
+            <file
+                name="exercise_record"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\xml\exercise_record.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="ex_musc_record"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\xml\ex_musc_record.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="calendar"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\menu\calendar.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_calendar"
+                path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\main\res\layout\activity_calendar.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\Stas\AndroidStudioProjects\Gym\app\build\res\rs\debug" />
+        <source path="C:\Users\Stas\AndroidStudioProjects\Gym\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Stas\AndroidStudioProjects\Gym\app\src\debug\res" />
+    </dataSet>
+
+</merger>

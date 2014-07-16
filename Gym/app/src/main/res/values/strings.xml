@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gym</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play">play</string>
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="train_video">Посмотреть тренировки</string>
+    <string name="muscinf">О мышцах!</string>
+    <string name="shoulders">Плечи</string>
+    <string name="biceps">Бицепс</string>
+    <string name="forearms">Предплечья</string>
+    <string name="chest">Грудь</string>
+    <string name="abs">Пресс</string>
+    <string name="quads">Квадрицепсы</string>
+    <string name="neck">Шея</string>
+    <string name="traps">Трапеции</string>
+    <string name="triceps">Трицепс</string>
+    <string name="lats">Широчайшие</string>
+    <string name="middleback">Средняя часть спины</string>
+    <string name="lowerback">Нижняя часть спины</string>
+    <string name="glutes">Ягодицы</string>
+    <string name="hamstrings">Бедра</string>
+    <string name="calves">Икры</string>
+
+    <string-array name="muscleList">
+        <item>shoulders</item>
+        <item>biceps</item>
+        <item>forearms</item>
+        <item>chest</item>
+        <item>abs</item>
+        <item>quads</item>
+        <item>neck</item>
+        <item>traps</item>
+        <item>triceps</item>
+        <item>lats</item>
+        <item>middleback</item>
+        <item>lowerback</item>
+        <item>glutes</item>
+        <item>hamstrings</item>
+        <item>calves</item>
+    </string-array>
+
+    <string name="title_activity_calendar">CalendarActivity</string>
+
+</resources>
